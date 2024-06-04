@@ -56,4 +56,24 @@ I have created interactive dashboards in Tableau to present these findings effec
 
 This project showcases my ability to perform comprehensive data analysis using Tableau, including data preparation, merging datasets, calculating derived metrics, and creating insightful visualizations. The findings from this project provide a detailed look into Microsoft's stock performance over several decades, highlighting key trends and comparisons with the NASDAQ Composite index. These skills and techniques are crucial for a career in data analytics, and I am confident that this project demonstrates my capability to analyze complex datasets and derive meaningful insights.
 
-Feel free to visit my portfolio to explore the interactive dashboards and visualizations created for this project.
+## Accessing the Files
+
+I have uploaded the Tableau workbook file (`.twb` or `.twbx`) and the datasets used in this analysis to this repository. You can download and explore the files to see the detailed analysis and visualizations.
+
+### Steps to Access and Run the Files:
+
+1. **Clone the Repository:**
+   - Clone this repository to your local machine using the following command:
+     ```bash
+     git clone https://github.com/yourusername/your-repository.git
+     ```
+
+2. **Download Tableau:**
+   - If you don't already have Tableau installed, you can download it from the [Tableau website](https://www.tableau.com/products/desktop).
+
+3. **Open the Tableau Workbook:**
+   - Open Tableau and load the `.twb` or `.twbx` file from the cloned repository.
+   - Ensure that the datasets are in the same directory as the Tableau workbook or update the data source paths in Tableau if needed.
+
+4. **Explore the Dashboards:**
+   - Navigate through the various dashboards to explore the visualizations and insights derived from the data.
